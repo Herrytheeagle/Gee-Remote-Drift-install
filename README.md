@@ -4,6 +4,24 @@
 
 A reusable Drift snippet loader for Remote Conferencing. Install Drift live-chat widget for a remote conferencing service and package it as a small reusable integration module. 
 
+What it does
+Loads the Drift support/chat widget asynchronously
+Provides a reusable module API: GeeDrift.init() / GeeDrift.load(appId)
+Wraps the Drift snippet in a standard project structure
+Builds a distributable UMD bundle for browser usage
+
+Why it’s useful
+Lets a conferencing website or product quickly add live support chat
+Helps customers ask questions or get help while using the service
+Supports remote conferencing users with real-time chat and tracking
+Makes the integration reusable across pages or deployments
+
+In real life
+A customer-facing site for remote meetings could embed this script
+Support teams could use Drift to chat with users during onboarding
+Marketing or product teams could track user engagement through Drift
+The repo structure makes it easier to maintain, build, and deploy
+
 ## Files
 
 - `geedrift.js` — Browser loader and module wrapper for the Drift chat snippet.

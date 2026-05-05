@@ -1,0 +1,18 @@
+{
+  "name": "gee-remote-drift-install",
+  "version": "1.0.0",
+  "description": "A reusable Drift snippet loader for Gee Remote Conferencing.",
+  "type": "module",
+  "main": "geedrift.js",
+  "module": "src/index.js",
+  "scripts": {
+    "check": "node --check src/index.js",
+    "build": "rollup -c"
+  },
+  "keywords": ["drift", "chat", "support", "geeremote"],
+  "author": "Heritage Samuel",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^4.60.3"
+  }
+}

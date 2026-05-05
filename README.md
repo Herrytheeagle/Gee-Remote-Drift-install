@@ -1,5 +1,7 @@
 # Gee Remote Drift Install
 
+[![Node.js CI](https://github.com/Herrytheeagle/Gee-Remote-Drift-install/actions/workflows/nodejs.yml/badge.svg)](https://github.com/Herrytheeagle/Gee-Remote-Drift-install/actions/workflows/nodejs.yml)
+
 A reusable Drift snippet loader for Gee Remote Conferencing.
 
 ## Files

@@ -1,8 +1,8 @@
-# Gee Remote Drift Install
+# Remote Drift Install
 
 [![Node.js CI](https://github.com/Herrytheeagle/Gee-Remote-Drift-install/actions/workflows/nodejs.yml/badge.svg)](https://github.com/Herrytheeagle/Gee-Remote-Drift-install/actions/workflows/nodejs.yml)
 
-A reusable Drift snippet loader for Gee Remote Conferencing.
+A reusable Drift snippet loader for Remote Conferencing. Install Drift live-chat widget for a remote conferencing service and package it as a small reusable integration module. 
 
 ## Files
 
